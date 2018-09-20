@@ -8,6 +8,8 @@ I did this project solo.
 ## Knowledge Acquired
 First, I gained a familiarity with defining, building, publishing, and deploying a Docker image. I also became familiar with the basics of how a framework like Docker's swarm manages a cluster--assigning a manager and worker nodes. 
 
+I also saw some serious productivity gains once I started leveraging [fzf](https://github.com/junegunn/fzf), an excellent fuzzy finder that makes finding and repeating lengthy commands in one's history very easy. 
+
 Of course, the best way to really learn something is to break it and then be forced to fix it. In the process of editing the sample flask app that was run by my Docker image, I made some erroneous keystrokes in Vim and introduced a bug or two. I then went through the process of debugging a cluster with failing jobs, re-publishing the image, and then updating the cluster with the new image in place.
 
 ## What didn't work
