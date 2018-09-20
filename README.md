@@ -1,3 +1,6 @@
+![Docker's visualizer showing my two VM cluster running 5 flask instances](https://imgur.com/a/QmTaYAK)
+Docker's visualizer showing my two VM cluster running 5 load-balanced flask instances.
+
 # Building a Containerized Cluster
 The goal was to become familiar with docker and its uses across multiple machines. I had initially planned on combinging Docker and Kubernetes for this (and still want to experiment with that), but it turns out Docker's swarm functionality was able to spin up exactly what I had in mind. I did this by following parts 1-5 of the Docker 'get-started' tutorial (https://docs.docker.com/get-started).
 
