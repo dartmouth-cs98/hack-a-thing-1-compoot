@@ -1,4 +1,4 @@
-![Docker's visualizer showing my two VM cluster running 5 flask instances](https://imgur.com/a/QmTaYAK)
+![Docker's visualizer showing my two VM cluster running 5 flask instances](https://i.imgur.com/a/HEslKZ5)
 Docker's visualizer showing my two VM cluster running 5 load-balanced flask instances.
 
 # Building a Containerized Cluster
